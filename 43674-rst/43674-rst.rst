@@ -4,9 +4,10 @@
    :PG.Id: 43674
    :PG.Title: The Cardinal Moth
    :PG.Released: 2013-09-08
-   :PG.Reposted: 2013-09-15 error correction
    :PG.Rights: Public Domain
    :PG.Producer: Al Haines
+   :PG.Reposted: 2013-09-15 error corrections
+   :PG.Reposted: 2015-07-24 error corrections
    :DC.Creator: Fred \M. White
    :DC.Title: The Cardinal Moth
    :DC.Language: en
@@ -554,7 +555,7 @@ Sir Clement," she said.
 "Call me uncle and you shall have the
 conservatory," Frobisher grinned.  "I am your
 uncle by marriage, you know, and your guardian
-bylaw.  Angela, you are looking lovely.  With the
+by law.  Angela, you are looking lovely.  With the
 exception of a peasant woman I once met in
 Marenna, you are the most beautiful creature I
 ever saw."
@@ -7028,7 +7029,7 @@ really listening to us?"
 murmured.  "I am quite ready to laugh."
 
 She broke out into a rippling, amused smile as
-Mrs. Benstein slightly bent her head and Said:
+Mrs. Benstein slightly bent her head and said:
 
 "Be sure that you take down and brush out
 your hair to-night!"
@@ -8816,7 +8817,7 @@ Mrs. Benstein rose from her seat, and flicked a
 solitary crumb from her dress.  On the whole she
 did not seem displeased with the day's work.
 
-"Enough for the present," she said, "Take me
+"Enough for the present," she said.  "Take me
 out and see me into a swift taxi."
 
 
